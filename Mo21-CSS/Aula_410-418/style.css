@@ -1,0 +1,37 @@
+*{
+   background-color: rgb(217, 222, 223);
+}
+
+h1{
+   color: green;
+}
+
+.p-texto{
+   color: blue;
+}
+
+#tit_princ{
+   font-size: 36px;
+}
+
+/* Cores */
+
+.nome-cor{
+   color: red;
+}
+
+.hexa{
+   color: #6bdae9;
+}
+
+.rgba{
+   color: rgb(45, 66, 53);
+}
+
+/*Fontes*/
+
+.fontes{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 600;
+   
+}

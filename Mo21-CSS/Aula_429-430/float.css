@@ -1,0 +1,25 @@
+.container{
+   padding: 50px;
+}
+
+.div-float{
+   overflow: auto;
+}
+
+.img-float{
+   width: 400px;
+   height: 200px;
+   float: left;
+}
+
+.float-right{
+   float: right;
+}
+
+.earthbound{
+   width: 150px;
+}
+
+.clear{
+   clear: both;
+}

@@ -1,0 +1,40 @@
+.pixels{
+   background-color: rgb(82, 43, 17);
+   border: 3px solid black;
+   width: 200px;
+   height: 200px;
+}
+
+.porcentagem{
+   margin-top: 20px;
+   background-color: rgb(194, 147, 116);
+   border: 3px solid black;
+   width: 50%;
+   height: 50%;
+}
+
+.em{
+   margin-top: 20px;
+   background-color: rgb(116, 141, 194);
+   border: 3px solid black;
+   width: 200px;
+   height: 200px;
+}
+
+.em p{
+   font-size: 2em;
+
+}
+
+.rem{
+   margin-top: 20px;
+   background-color: rgb(128, 38, 123);
+   border: 3px solid black;
+   width: 200px;
+   height: 200px;
+}
+
+.rem p{
+   font-size: 3rem;
+
+}

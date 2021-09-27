@@ -1,0 +1,17 @@
+{
+   "sqltools.connections": [
+      {
+         "mysqlOptions": {
+            "authProtocol": "default"
+         },
+         "previewLimit": 50,
+         "server": "localhost",
+         "port": 3312,
+         "driver": "MySQL",
+         "name": "mysql-Xampp",
+         "database": "db_vbs",
+         "username": "root",
+         "password": ""
+      }
+   ]
+}

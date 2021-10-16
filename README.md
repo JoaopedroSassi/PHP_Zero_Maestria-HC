@@ -8,6 +8,7 @@ Estarei fazendo upload nesse repositório **apenas** dos exercícios. Será uma 
 Até o momento, as seguintes seções tiveram o upload de arquivos de aulas comuns (Por não terem exercicios):
 * Seção 08
 * Seção 14
+* Seção 16
 
 ### Projetos
 Cada projeto terá apenas um arquivo com um README.MD que vai ter um link para o repositório do próprio projeto. Cada projeto terá seu próprio repositório 
